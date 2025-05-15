@@ -2,7 +2,6 @@
 [![Virtual Internship](https://img.shields.io/badge/The%20Forage-Mastercard%20Cybersecurity-orange)](https://www.theforage.com)
 
 This project was completed as part of the Mastercard Cybersecurity Virtual Experience on The Forage. It simulates real-world cybersecurity work focused on phishing awareness, email analysis, and internal communication design to protect users against social engineering threats.
-
 ---
 
  📁 Project Deliverables
